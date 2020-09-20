@@ -1,0 +1,79 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DataCompression",
+        "repositoryURL": "https://github.com/mw99/DataCompression.git",
+        "state": {
+          "branch": null,
+          "revision": "6abb8f3cd0e4b2a33b4927a7a92b6764528f2440",
+          "version": "3.6.0"
+        }
+      },
+      {
+        "package": "JWTDecode",
+        "repositoryURL": "https://github.com/auth0/JWTDecode.swift.git",
+        "state": {
+          "branch": null,
+          "revision": "7875753f26400a9456e3305ba47255d7629a8a69",
+          "version": "2.4.1"
+        }
+      },
+      {
+        "package": "Nimble",
+        "repositoryURL": "https://github.com/Quick/Nimble",
+        "state": {
+          "branch": null,
+          "revision": "7a46a5fc86cb917f69e3daf79fcb045283d8f008",
+          "version": "8.1.2"
+        }
+      },
+      {
+        "package": "Quick",
+        "repositoryURL": "https://github.com/Quick/Quick",
+        "state": {
+          "branch": null,
+          "revision": "09b3becb37cb2163919a3842a4c5fa6ec7130792",
+          "version": "2.2.1"
+        }
+      },
+      {
+        "package": "swift-nio",
+        "repositoryURL": "https://github.com/apple/swift-nio.git",
+        "state": {
+          "branch": null,
+          "revision": "96db8838be60fcbb993fa738e1120fb7f4b99c43",
+          "version": "2.22.1"
+        }
+      },
+      {
+        "package": "swift-raknet",
+        "repositoryURL": "https://github.com/Extollite/swift-raknet.git",
+        "state": {
+          "branch": "master",
+          "revision": "1bec70f38856f1e8b9f814826d513942cc253460",
+          "version": null
+        }
+      },
+      {
+        "package": "swift-transferpe",
+        "repositoryURL": "https://github.com/Extollite/swift-transferpe.git",
+        "state": {
+          "branch": "master",
+          "revision": "b872a1a298a20107a44ca2ce2453b35edf24ba45",
+          "version": null
+        }
+      },
+      {
+        "package": "SwiftyJSON",
+        "repositoryURL": "https://github.com/SwiftyJSON/SwiftyJSON.git",
+        "state": {
+          "branch": null,
+          "revision": "2b6054efa051565954e1d2b9da831680026cd768",
+          "version": "4.3.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
