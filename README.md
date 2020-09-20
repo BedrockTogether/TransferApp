@@ -1,7 +1,8 @@
 # TransferApp
 This app shows as LAN server on your Minecraft PS4/Xbox One/Win 10/Mobile client and transfers you to any server you want.<br>
 You can play on any remote server but not realms.<br><br>
-MacOS is currently __only__ supported platform.
+MacOS is currently __only__ supported platform.<br>
+If you will find any bugs please contact me on discord __Extollite#3741__ or telegram: https://t.me/Extollite
 
 ## Running
 1. [Download](https://github.com/Extollite/TransferApp/releases) latest release and unzip it.
