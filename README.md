@@ -4,6 +4,8 @@ You can play on any remote server but not realms.<br><br>
 MacOS is currently __only__ supported platform.<br>
 If you will find any bugs, contact me on discord __Extollite#3741__ or telegram: https://t.me/Extollite
 
+Mobile version of the app: https://apps.apple.com/app/bedrocktogether/id1534593376
+
 ## Running
 1. [Download](https://github.com/Extollite/TransferApp/releases) latest release and unzip it.
 2. Double click on `start.command`
