@@ -42,8 +42,8 @@
         "repositoryURL": "https://github.com/apple/swift-nio.git",
         "state": {
           "branch": null,
-          "revision": "c3e2359c55cd8b47207ab7363b77c9c398a95294",
-          "version": "2.23.0"
+          "revision": "3be4e0980075de10a4bc8dee07491d49175cfd7a",
+          "version": "2.27.0"
         }
       },
       {
@@ -51,7 +51,7 @@
         "repositoryURL": "https://github.com/Extollite/swift-raknet.git",
         "state": {
           "branch": "master",
-          "revision": "af99b14bfae28c4ae88746cad894f9f059b4b653",
+          "revision": "612b03a8236d2a1be8b7a818705b1bc4a6890fc2",
           "version": null
         }
       },
@@ -60,7 +60,7 @@
         "repositoryURL": "https://github.com/Extollite/swift-transferpe.git",
         "state": {
           "branch": "master",
-          "revision": "109928246c49b8a83e34571a31f7a7bcf5d1016e",
+          "revision": "f6f2ca914134f7f3ba9ee4cef93ff61dd1bcaaeb",
           "version": null
         }
       },

@@ -5,7 +5,7 @@ import RakNetSwift
 
 let arguments: [String] = Array(CommandLine.arguments.dropFirst())
 
-var ip = "mcpe.to"
+var ip = "play.nethergames.org"
 var port = 19132
 var group = MultiThreadedEventLoopGroup(numberOfThreads: System.coreCount)
 
